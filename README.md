@@ -3,5 +3,4 @@ The initial project contains this README, 4 empty app directories and a node_mod
 The node_modules has a few random directories from the real one.
 The git repository will be hosted by dpmdpm as a public repo.
 Start with help1/Upload to Git.txt for instructions on creating a repo.
-Next, add help1/Basic Commands.
-Including git status, log, commit, reset and restore.
+Next, add help1/Basic Commands including status, log, commit, amend, reset and restore.
