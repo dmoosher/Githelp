@@ -1,0 +1,14 @@
+BASIC COMMANDS
+
+git init        // initializes a dir as a git repo
+
+git add .       // adds all files to the git repos except those in .gitignore
+                // Will not add an empty directory.
+
+git status      // Shows status of individual files as untracked, tracked but not staged,
+                // and tracked and staged.
+
+git log         // history of commits
+git log -2      // only last two
+git log -p      // shows diffs
+git log -graph
