@@ -1,0 +1,22 @@
+UPLOAD AN EXISTING PROJECT TO GITHUB
+
+(1) Create an empty Repo on Github
+    - If a program, add MIT License.
+    - Add README.md if one doesn't exist in local working directory
+    - Do not add .gitignore as you will need it on your local machine first.
+
+(2) On local machine - If just starting to use git, add user name and email to global config
+    - git config --global user.email "dpmdpm@msn.com"
+    - git config --global user.name "dm"
+
+(3) On local machine, create a local Repo
+    - in working directory create a .gitignore file to exclude directories (e.g. node_modules)
+    - git init -b main          // to create repo and checks out "main" branch
+
+(4) Add files to staging area:
+    - git add .                 // Will not add empty directories.
+
+(5) Move staged files to main branch by performing a commit:
+    - git commit -m "Initialize Githelp"
+
+(6)
