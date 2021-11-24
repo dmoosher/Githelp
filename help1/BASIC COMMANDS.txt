@@ -25,3 +25,5 @@ git restore undo_file //    Sames as above - newer way to revert file to previou
 
 git restore --staged undo_file // unstages file so that you can revert with git restore.
 
+git ls-files        // Show files currently being tracked.
+
