@@ -1,0 +1,9 @@
+GIT COLLABORATOR
+
+1)  Create empty working directory (e.g. githelp)
+
+2) git clone https:github.com/dmoosher/Githelp.git  // clones repo
+
+3) git branch help2             // Create a new branch to work on
+
+4) git checkout help2           // Make branch active. DO EDITS/ADD FILES.
