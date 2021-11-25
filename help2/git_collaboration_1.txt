@@ -7,3 +7,6 @@ GIT COLLABORATOR
 3) git branch help2             // Create a new branch to work on
 
 4) git checkout help2           // Make branch active. DO EDITS/ADD FILES.
+
+5) git commit -m "my edits to help2"
+
